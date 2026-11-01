@@ -1,0 +1,27 @@
+{
+  "name": "Cruz's Off Road",
+  "short_name": "Cruz's Off Road",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#4fc3f7",
+  "theme_color": "#4fc3f7",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
